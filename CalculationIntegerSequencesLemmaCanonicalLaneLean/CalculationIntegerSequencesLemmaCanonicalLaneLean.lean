@@ -1,0 +1,7 @@
+import CalculationIntegerSequencesLemmaCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CalculationIntegerSequencesLemmaCanonicalLaneLean
+
+end CalculationIntegerSequencesLemmaCanonicalLaneLean
+end HautevilleHouse
